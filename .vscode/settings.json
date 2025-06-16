@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "random": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp"
+    }
+}
