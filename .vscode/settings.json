@@ -3,6 +3,8 @@
     "files.associations": {
         "random": "cpp",
         "algorithm": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "string": "cpp",
+        "xstring": "cpp"
     }
 }
